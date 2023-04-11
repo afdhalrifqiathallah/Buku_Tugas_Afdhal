@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Buku_Tugas_Afdhal</string>
+    <string name="Button_1_text">Button 1</string>
+    <string name="Button_2_text">Button 2</string>
+    <string name="Button_3_text">Button 3</string>
+    <string name="Button_4_text">Button 4</string>
+    <string name="Button_5_text">Button 5</string>
+    <string name="Button_6_text">Button 6</string>
+    <string name="Button_7_text">Button 7</string>
+    <string name="Button_8_text">Button 8</string>
+    <string name="Button_9_text">Button 9</string>
+    <string name="Button_10_text">Button 10</string>
 </resources>
