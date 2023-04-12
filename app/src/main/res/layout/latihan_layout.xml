@@ -17,7 +17,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/btn1"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="11dp"
         android:text="@string/Button_2_text"
         android:textSize="15sp" />
 
@@ -26,10 +25,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@id/btn2"
-        android:layout_marginStart="-3dp"
-        android:layout_marginTop="169dp"
-        android:layout_marginEnd="169dp"
-        android:layout_marginBottom="-2dp"
         android:layout_toEndOf="@id/btn2"
         android:text="@string/Button_3_text"
         android:textSize="15sp" />
